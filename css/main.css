@@ -374,9 +374,17 @@ li {
 
 .contact-btn {
   height: 48px;
-  width: 131px;
+  width: 83px;
   background: #ff6b00;
   color: #fff;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.contact-btn:hover {
+  background-color: #FFF5E1;
+  border: 1px solid #F55800;
+  color: #F55800;
 }
 
 .text-area {
