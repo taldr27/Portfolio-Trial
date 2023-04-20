@@ -18,6 +18,7 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -46,8 +47,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started" id="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -91,6 +90,19 @@ Install this project with:
 👤 **Diego Garcia**
 
 - GitHub: [@taldr27](https://github.com/taldr27)
+
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **Add a new responsive design for desktop**
+- [ ] **Add a backend service for the form**
+- [ ] **Try a new service for the form**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTRIBUTING -->
