@@ -392,3 +392,18 @@ li {
   background: #fbf8f7;
   border: none;
 }
+
+@media only screen and (min-width: 678px) {
+  .contact-form {
+    flex-direction: row;
+  }
+
+  .main-text {
+    width: 50%;
+  }
+
+  form {
+    width: 50%;
+  }
+}
+
