@@ -291,6 +291,53 @@
       </div>
     </main>
 
+    <section id="contact-form" class="contact-form">
+      <p class="main-text">
+        I'm always interested in hearing about new projects, so if you'd like to chat please get in touch.
+      </p>
+
+      <form action="https://formspree.io/f/xayknejl" method="POST">
+        <ul class="form-inputs">
+          <li>
+            <input
+              class="input"
+              type="text"
+              name="user_name"
+              id="name"
+              placeholder="Full name"
+              maxlength="30"
+              required
+            />
+          </li>
+          <li>
+            <input
+              class="input"
+              type="email"
+              name="user_email"
+              id="email"
+              placeholder="Enter address"
+              required
+            />
+          </li>
+          <li>
+            <textarea
+              class="input text-area"
+              name="user_msg"
+              id="msg"
+              cols="30"
+              rows="10"
+              placeholder="Enter text here"
+              maxlength="500"
+              required
+            ></textarea>
+          </li>
+          <li class="contact-form-submit-button-container input">
+            <button type="submit" class="contact-btn">Get In Touch</button>
+          </li>
+        </ul>
+      </form>
+    </section>
+
     <script
       src="https://kit.fontawesome.com/e966a3bd22.js"
       crossorigin="anonymous"
